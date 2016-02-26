@@ -1,0 +1,12 @@
+
+body {
+    background-image: url("dogs.png");
+    background-repeat: repeat;
+}
+
+iframe {
+  background-color: #ADD8E6;
+    display: block;
+    margin:0 auto;
+    overflow: hidden;
+}
